@@ -1,0 +1,81 @@
+{
+  "About": [
+    {
+      "label": "Name",
+      "value": "AbdElRahman Mokhtar"
+    },
+    {
+      "label": "Address",
+      "value": "10th Of Ramadan City"
+    },
+    {
+      "label": "Email",
+      "value": "abdo033@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "value": "+201029060019"
+    }
+  ],
+
+  "Skils": [
+    {
+      "name": "HTml",
+      "num": 83
+    },
+    {
+      "name": "Css",
+      "num": 76
+    },
+    {
+      "name": "Js",
+      "num": 67
+    },
+    {
+      "name": "Git Hub",
+      "num": 46
+    }
+  ],
+  "Projects": [
+    {
+      "name": "Todo List",
+      "img": "images/one.png",
+      "link": "https://abdomokhtar.github.io/Todo-List/"
+    },
+    {
+      "name": "Daily Quote",
+      "img": "images/two.png",
+      "link": "https://abdomokhtar.github.io/Daily-Quote/"
+    },
+    {
+      "name": "Calculator",
+      "img": "images/three.png",
+      "link": "https://abdomokhtar.github.io/Calculator/"
+    },
+    {
+      "name": "Weather App",
+      "img": "images/four.png",
+      "link": "https://abdomokhtar.github.io/Weather-app/"
+    },
+    {
+      "name": "Generator Qr",
+      "img": "images/five.png",
+      "link": "https://abdomokhtar.github.io/Generator-Qr/"
+    },
+    {
+      "name": "Login Page",
+      "img": "images/six.png",
+      "link": "https://abdomokhtar.github.io/login/"
+    },
+    {
+      "name": "Card Of Music",
+      "img": "images/seven.png",
+      "link": "https://abdomokhtar.github.io/Card-of-music/"
+    },
+    {
+      "name": "Equation",
+      "img": "images/eight.png",
+      "link": "https://abdomokhtar.github.io/Equation-from-Azhar-to-General/"
+    }
+  ]
+}
