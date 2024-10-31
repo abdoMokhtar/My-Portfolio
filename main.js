@@ -132,7 +132,7 @@ function anime() {
 }
 
 function proAnime() {
-  if (window.scrollY >= projectSec.offsetTop - 300 && !hasAnimatedProject) {
+  if (window.scrollY >= projectSec.offsetTop - 500 && !hasAnimatedProject) {
     hasAnimatedProject = true;
     document.querySelector(".project .container").style.transform = `scale(1)`;
   }
